@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   TradePeopleV2:
-    path: TradePeople/
+    path: ""
 ...
