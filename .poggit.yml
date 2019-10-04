@@ -2,6 +2,6 @@
 branches:
 - master
 projects:
-  TradePeople:
+  TradePeopleV2:
     path: TradePeople/
 ...
